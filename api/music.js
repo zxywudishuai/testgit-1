@@ -1,4 +1,4 @@
 getPlaylists() {
-    let kg_handsome = 70
+    let kg_handsome = 100
     return null
 }
