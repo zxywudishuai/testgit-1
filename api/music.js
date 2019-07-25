@@ -1,0 +1,3 @@
+getPlaylists() {
+    return null
+}
